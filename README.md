@@ -3,8 +3,8 @@ Aplicação de teste para avaliação de três modos de realizar otimização em
 
 ## Tópicos:
 
-Otimização por meio de cache em memória
+* Otimização por meio de cache em memória
 
-Otimização por meio de compressão de dados
+* Otimização por meio de compressão de dados
 
-Otimização removendo valores nulos nas respostas da api
+* Otimização removendo valores nulos nas respostas da api
